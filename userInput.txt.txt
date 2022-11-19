@@ -1,0 +1,55 @@
+-45.867100, 170.517806 OwheoThree
+45 d 52 m 1.6s S, 170 d 31 m 4.1s E OwheoTwo
+45°52'01.6"S 170°31'04.1"E OwheoOne
+DDM
+Dunedin City 5° 5.5 N 5.6° 5.6 E
+Dunedin City 10 10.5' N 10 10.6' E
+Dunedin City 15° 15.5 N 15° 15.6' E
+Dunedin city 35 35' N 35 35.23' E
+40 40.12 N 40 40.2136546437' E
+45° 45' 45° 45'
+50°50.50'S 50°50'E
+55°55' S 55°55' E
+60° 60' S 60° 60' E
+70 70.123 N, 70 70 W
+100 d 100 m N, 100 d 100 m E
+110d 55m N, 110d 110m E
+150 150.12 150 150 Dunedin City
+
+STD
+10.1 ,-10.2 dunedin city 
+dunedin city 20.1 ,-20.2
+Abbey St 30.1 , -30.2
+40.1 , -40.2 Abbey St
+50.1, -50.2
+60.1,-60.2
+-70.1 70.2
+80.1 -80.2
+90.1 90.2
+100.1 N, -100.2 E dunedin city 
+Dunedin City 110.1 S, -110.2 W
+Dunedin City 120.1 S, -120.2 W
+130.1° ,-130.2° dunedin city 
+dunedin city 140.1° ,-140.2°
+160.1° -150.2°
+dunedin city 170.1° ,-170.2°
+dunedin city 180.1° ,-180.2°
+Dunedin 190.2 190.1 S
+Dunedin 200.2 200.1 N
+
+DMS
+Dunedin City 5.01° 54 59.5 N 5° 44 54.6 E
+Dunedin City 10.01° 54 59.5 N 10.3454544° 44 54.6 E
+15.01° 54 59.5 15.345° 44 54.6 Dunedin City
+20° 54 59 20° 44 54 Dunedin City
+25 54 59 25 44 54
+30 54 59 Dunedin City 30 44 54
+Dunedin City 35.01° 54' 59.5" N 35.3454544° 44' 54.6" E
+Dunedin City 40.01° 54 59.5" N 40.3454544° 44 54.6" E
+Dunedin City 45.01° 54 59.5 N 45.3454544° 44 54.6 E
+50.01 54' 59.5 N 50.3454544 44' 54.6 E Dunedin City
+55.01 54' 59.5 N 55.3454544 44' 54.6 E Dunedin City
+60.01d 54m 59.5s N 60.3454544d 44m 54.6s E Dunedin City
+65.01 d 54 m 59.5 s N 65.3454544 d 44 m 54.6 s E Dunedin City
+70.01 54 m 59.5 s N 70.3454544 44 m 54.6 s E Dunedin City
+75.01 54 59.5 s N 75.3454544 44 54.6s E Dunedin City

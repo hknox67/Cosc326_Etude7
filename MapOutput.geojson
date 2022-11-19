@@ -1,0 +1,855 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "OwheoThree "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.867100
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "OwheoTwo "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.866667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "OwheoOne "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.517806,
+-45.866667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "DDM Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.693333,
+5.091667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+10.176667,
+10.175000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+15.260000,
+15.258333
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+35.587167,
+35.583333
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+40.670228,
+40.668667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+45.750000,
+45.750000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+50.833333,
+-50.841667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+55.916667,
+-55.916667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+61.000000,
+-61.000000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.166667,
+71.168717
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+101.666667,
+-11.666667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+111.833333,
+-20.916667
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+152.500000,
+-62.502000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "STD dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-10.200000,
+10.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-20.200000,
+20.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Abbey St "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-30.200000,
+30.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Abbey St "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-40.200000,
+40.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-50.200000,
+50.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-60.200000,
+60.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+70.200000,
+-70.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-80.200000,
+80.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+90.200000,
+-0.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-100.200000,
+-10.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+110.200000,
+20.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+120.200000,
+30.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+130.200000,
+40.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+140.200000,
+50.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+150.200000,
+70.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+170.200000,
+80.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "dunedin city "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-0.200000,
+-0.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+10.200000,
+-10.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+20.200000,
+-20.100000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "DMS Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+-5.733333,
+-5.910000
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.093954,
+10.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+16.093500,
+15.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+20.748333,
+20.916389
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": ""
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+25.748333,
+25.916389
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+30.748333,
+30.916389
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+36.093954,
+35.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+41.093954,
+40.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+46.093954,
+45.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+51.093954,
+50.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+56.093954,
+55.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+61.093954,
+60.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+66.093954,
+65.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+71.093954,
+70.926528
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FF0000",
+"marker-size": "medium",
+"marker-symbol": "",
+"Name": "Dunedin City "
+
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+76.093954,
+75.926528
+]
+}
+}
+]
+}
